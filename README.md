@@ -1,7 +1,9 @@
 # Portfolio-website
 
-Tech stack:
+# Tech stack:
 
 React
+
 Framer-motion
+
 Sanity (Content Management)
