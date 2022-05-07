@@ -1,6 +1,6 @@
 # Portfolio-website
 
-# Tech stack:
+Tech stack:
 
 React
 
